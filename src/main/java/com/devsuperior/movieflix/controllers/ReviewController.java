@@ -1,7 +1,7 @@
 package com.devsuperior.movieflix.controllers;
 
 import com.devsuperior.movieflix.dto.ReviewDTO;
-import com.devsuperior.movieflix.entities.Review;
+
 import com.devsuperior.movieflix.services.ReviewService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
